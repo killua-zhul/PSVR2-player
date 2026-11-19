@@ -1,0 +1,14 @@
+build-mac/
+build*/
+*.o
+*.elf
+.DS_Store
+app/tools/preview/build/
+app/tools/preview/out/
+app/tools/preview/vr_ui_preview
+release/
+release-backup/
+.deps/
+app/.deps/
+app/tools/native-mac/zlib/
+*.log
